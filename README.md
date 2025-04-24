@@ -1,4 +1,5 @@
  Evil Twin Attack – Cybersecurity Awareness Simulation
+ 
 📌 What is an Evil Twin Attack?
 An Evil Twin Attack is a type of Wi-Fi impersonation attack where an attacker sets up a fake wireless access point (AP) that mimics a legitimate one. The goal is to trick users into connecting to this rogue AP, enabling the attacker to monitor traffic, steal login credentials, or inject malware.
 This project simulates such an attack using a NodeMCU ESP8266 to help raise cybersecurity awareness and demonstrate how attackers exploit open or weakly secured wireless networks.
